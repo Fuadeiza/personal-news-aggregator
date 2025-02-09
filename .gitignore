@@ -1,0 +1,6 @@
+/venv
+.env
+.DS_Store
+file-to-speech.json
+__pycache__/
+scraa.py
